@@ -9,6 +9,8 @@ public class Kiem_tra_day_ngoac_dung {
         int t = Integer.parseInt(sc.nextLine());
         while (t-->0) {
             String s = sc.nextLine();
+            int x =  2147483647+15;
+            System.out.println(x);
             if(check(s)) System.out.println("YES");
             else System.out.println("NO");
         }

@@ -6,7 +6,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 public class So_0_va_9 {
-    static ArrayList<Long> l = new ArrayList<>();
+    public static ArrayList<Long> l = new ArrayList<>();
     static long[] ans = new long[101];
     public static void main(String[] args) {
         init();
